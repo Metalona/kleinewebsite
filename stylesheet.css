@@ -1,0 +1,19 @@
+.header{
+	background-color: #99D8FF;
+	padding: 10px 0;
+	border-bottom: 1px, solid #DCECF2;
+	border: 2px solid #05008C;
+}
+
+.Jobs{
+	border: 2px solid #05008C;
+	padding: 20px;
+	text-align: center;
+	margin-top: 30px;
+}
+
+.jobs h2{
+	
+	font-size: 20px;
+	color: #DF979A
+}
