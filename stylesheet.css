@@ -5,15 +5,36 @@
 	border: 2px solid #05008C;
 }
 
+.topinfo{
+
+	background-color: #DCECF2;
+}
 .Jobs{
-	border: 2px solid #05008C;
+	margin: 5px;
+	border: 1.5px solid #05008C;
 	padding: 20px;
 	text-align: center;
 	margin-top: 30px;
 }
 
 .jobs h2{
-	
+
 	font-size: 20px;
 	color: #DF979A
+}
+
+.maincontent{
+	margin: 20px;
+	padding: 20px;
+}
+
+.footer{
+	padding: 20px;
+	background-color: #DF979A;
+
+}
+
+.footer h2{
+	color: #DCECF2;
+
 }
